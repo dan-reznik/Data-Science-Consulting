@@ -1,5 +1,5 @@
 ---
-title: "Curso de Ciência de Dados"
+title: "Aprendendo Ciência de Dados"
 author: "Dan Reznik, Founder, Data Science Consulting"
 output:
   html_document:
