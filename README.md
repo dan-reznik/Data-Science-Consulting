@@ -1,19 +1,20 @@
 
 <img src="pics/data_science_consulting_logo.png" style="display: block; margin: auto;" />
 
-# Nossa empresa
+# Apresentação
 
-Com 8 anos de experiência em 15+ projetos, somos especialistas em
-Ciência dos Dados e Machine Learning. Somo entusiastas do ecossistema
-R/tidyverse/shiny. Temos enfoque na entrega de serviços estratégicos, de
-implantação, de problem-solving, e de ferramentas de apoio à decisão
-(dashboards, live reports, etc.)
+Fundada em 2011 por [Dan
+Reznik](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/), somos
+entusiastas em Analítica de Dados, Reports/Dashboards e Modelos
+Preditivos. Além disso, gostamos de testar novas idéias e capacitar
+novos Cientistas de Dados.
 
 # Equipe
 
-Além de diretor Dan Reznik (PhD em Ciência da Computação pela
-UC-Berkeley), contamos com uma equipe de jovens cientistas de dados
-formados pelas melhores Universidades do país.
+Nosso diretor [Dan
+Reznik](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/) é doutor
+em Ciência da Computação pela UC-Berkeley. Também contamos com uma
+equipe de cientistas formados pelas melhores Universidades do país.
 
 # Serviços
 
@@ -31,7 +32,18 @@ formados pelas melhores Universidades do país.
   - Governo: SEPLAG-MG, Secretaria de Educação-SP
   - Startups: Instituto Igarapé, Loft, Loggi
 
-# Produtos de Entrega
+# Aplicações
+
+  - Previsão de Eventos Singulares
+  - Recomendação de Produtos
+  - Estimativa de Lifetime Value (LTV)
+  - Previsão de Churn / Absenteísmo
+  - Previsão de Performance
+  - Previsão de Doenças
+  - Previsão de Criminalidade
+  - Análise de Causalidade (políticas públicas)
+
+# Formatos de Entrega
 
   - Relatórios Analíticos
   - Dashboards (Shiny e JS)
