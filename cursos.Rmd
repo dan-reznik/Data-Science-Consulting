@@ -1,5 +1,5 @@
 ---
-title: "Aprendendo Ciência de Dados"
+title: "Ciência de Dados: Capacitação In-Company"
 author: "Dan Reznik, Founder, Data Science Consulting"
 output:
   html_document:
