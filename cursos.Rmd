@@ -1,6 +1,6 @@
 ---
 title: "Curso de Ciência de Dados"
-author: "Dan Reznik, Data Science Consulting"
+author: "Dan Reznik, Founder, Data Science Consulting"
 output:
   html_document:
     toc: true
