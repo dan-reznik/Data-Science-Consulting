@@ -6,11 +6,11 @@ output:
   html_document:
     toc: true
     toc_depth: 1
-    number_sections: true
+    number_sections: false
     toc_float:
       collapsed: false
-      smooth_scroll: false
-css: styles.css
+      smooth_scroll: true
+    css: styles.css
 --- 
 
 ```{r setup, include=FALSE}
@@ -23,16 +23,17 @@ knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
 
-# Apresentação {-}
+# Apresentação
 
-Sou **consultor e professor** em Ciência de Dados, 
-formado pela UC-Berkeley. Há 8 anos faço projetos e treinamento em Ciência de Dados no Brasil. Sou especialista no **ecossistema R/tidyverse/shiny** com foco em resultados (automação de relatórios, visualização, dashboards).
+Fundei a [DCS](index.html) em 2011 onde já executamos mais de 15 projetos em Analítica Avançada, Dashboards, e Modelagem Preditiva. Há 6 anos leciono cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.)
 
-Além de projetos de consultoria, tenho oferecido **cursos de capacitação hands-on**, direcionados a resultados. Meus alunos são profissionais de TI, na área de dados e negócios, e executivos. Recentemente realizei treinamentos na NeoEnergia e Ministério Público, lecionando na PUC, FGV onde somos fãs do R/Tidyverse, PowerBI etc.
+Já capacitamos centenas de alunos de várias áreas profissionais: TI, engenharia, negócios, jornalismo, advocacia, financás, dentre muitos outros.
 
-***
-# Ementa dos Cursos {-}
-## Básico - 6 encontros de 4 horas {-}
+Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. Utilizamos o poderosíssimo ecossistema R/tidyverse/shiny. 
+
+# Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
+
+## Básico: 24h
 
 - Introdução
   - Instalação do R, RStudio, pacotes, tidyverse
@@ -70,8 +71,7 @@ regex
 - Projeto II
   - Investigação de projeto específico ao cliente
   
-
-## Avançado - 20 encontros de 4 horas {-}
+## Avançado: 80h
 
 - Introdução
   - O que é data science e R
@@ -117,10 +117,12 @@ AzureML
   - Definição do projeto
   - Orientação, Desenvolvimento
   - Documentação (knitr)
-  
-***
 
-# Contato {-}
+# Contato
 
 - Email dan@dat-sci.com
-- Whatsapp: (21) 98574-7382  
+- Whatsapp: (21) 98574-7382
+
+***
+
+Voltar à pagina da [DCS](index.html)

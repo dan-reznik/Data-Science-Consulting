@@ -1,7 +1,10 @@
 ---
 title: ""
 author: ""
-output: html_document
+output:
+  prettydoc::html_pretty:
+    theme: leonids
+    highlight: github
 css: styles.css
 ---
 
