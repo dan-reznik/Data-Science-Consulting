@@ -2,10 +2,8 @@
 title: ""
 author: ""
 output:
-  prettydoc::html_pretty:
-    theme: leonids
-    highlight: github
-css: styles.css
+  html_document:
+    css: styles.css
 ---
 
 ```{r setup, include=FALSE}
