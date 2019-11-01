@@ -1,7 +1,6 @@
 ---
 title: "Curso de Ciência de Dados"
-author: "Dan Reznik"
-date: "Novembro de 2019"
+author: "Dan S. Reznik, Data Science Consulting"
 output:
   html_document:
     toc: true
@@ -27,9 +26,15 @@ knitr::include_graphics("pics/dan_mp.jpg")
 
 Fundei a [DCS](index.html) em 2011 onde já executamos mais de 15 projetos em Analítica Avançada, Dashboards, e Modelagem Preditiva. Há 6 anos leciono cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.)
 
-Já capacitamos centenas de alunos de várias áreas profissionais: TI, engenharia, negócios, jornalismo, advocacia, financás, dentre muitos outros.
+Já capacitamos centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
 Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. Utilizamos o poderosíssimo ecossistema R/tidyverse/shiny. 
+
+# Cursos Recentes
+
+- PUC-RJ: [Advanced Data-Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
+- PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
+- Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
 

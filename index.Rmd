@@ -43,13 +43,7 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 - Relatórios Analíticos
 - Dashboards (Shiny e JS)
 - Modelos de Machine Learning (via API)
-
-# Cursos
-
-- PUC-RJ: [Advanced Data-Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
-- PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
-- FGV: Big Data and Digital Marketing
-- DCS: [Treinamento](cursos.html)
+- [Capacitação In-Company](cursos.html)
 
 # Contato
 
