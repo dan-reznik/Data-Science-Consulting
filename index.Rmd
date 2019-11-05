@@ -1,6 +1,4 @@
 ---
-title: "Hello"
-author: "DSR"
 output:
   html_document:
     css: styles.css
