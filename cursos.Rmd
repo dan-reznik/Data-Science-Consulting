@@ -43,7 +43,7 @@ Sou fundador da [DCS](index.html) e ex-Cientista de Dados da Microsoft.  Desde 2
 
 Já capacitamos centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
-Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. Utilizamos o poderosíssimo ecossistema R/tidyverse/shiny.
+Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. 
 
 # Cursos Recentes
 
