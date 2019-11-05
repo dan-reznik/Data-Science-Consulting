@@ -17,24 +17,48 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 ***
 
+# Ciência de Dados
+
+A Ciência de Dados é um conjunto de metodologias e ferramentas de software focados na geração de valor a partir de seus dados. Isto se dá por meio de dashboards, relatórios analíticos (automatizados), modelos preditivos etc., que apoiando decisões de negócio visam (1) aumentar a receita, (2) diminuir os custos, ou (3) gerenciar riscos. 
+
+O seu fluxo de trabalho (abaixo) consiste em (0) um problema de negócios, (1) acesso ao dados, (2) "wrangling" (preparo), (3) exploração e visualização, opcionalmente (4) modelagem estatística e finalmente (5) comunicação: produção de relatórios, dashboards, ou APIs de modelos.
+
+```{r,echo=F,fig.align='center',out.width="100%"}
+knitr::include_graphics("pics/fluxo.png")
+```
+
+## Foco em R
+
+Somos entusiastas do ecossistema R/Tidyverse/RMarkdown/Shiny, que dispõe de uma coleção estado-da-arte de pacotes p/ implementação elegante e eficaz de todas as demandas em Ciência de Dados:
+
+```{r,echo=F,fig.align='center',out.width="100%"}
+knitr::include_graphics("pics/tidyverse.png")
+```
+
+
+# Instrutor
+
+
 ```{r,echo=F,fig.align='center',out.width="50%"}
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-
-# Apresentação
-
-Fundei a [DCS](index.html) em 2011 onde já executamos mais de 15 projetos em Analítica Avançada, Dashboards, e Modelagem Preditiva. Há 6 anos leciono cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.)
+Sou fundador da [DCS](index.html) e ex-Cientista de Dados da Microsoft.  Desde 2011 já executamos mais de 15 projetos em Analítica Avançada, Dashboards, e Modelagem Preditiva. Há 6 anos leciono cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.). Sou doutor em Ciência da Computação pela UC-Berkeley.
 
 Já capacitamos centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
-Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. Utilizamos o poderosíssimo ecossistema R/tidyverse/shiny. 
+Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. Utilizamos o poderosíssimo ecossistema R/tidyverse/shiny.
+
+# Ciência de Dados
+
+
 
 # Cursos Recentes
 
 - PUC-RJ: [Advanced Data-Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
 - PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
 - Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
+- NeoEnergia
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
 
