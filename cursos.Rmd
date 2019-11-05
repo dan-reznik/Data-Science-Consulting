@@ -1,5 +1,5 @@
 ---
-title: "Ciência de Dados: Capacitação In-Company"
+title: "Capacitação em Ciência de Dados"
 author: "Dan Reznik, Founder, Data Science Consulting"
 output:
   html_document:
@@ -11,13 +11,10 @@ output:
       smooth_scroll: true
     css: styles.css
 --- 
-
+***
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-***
-
-# Ciência de Dados
 
 A Ciência de Dados é um conjunto de metodologias e ferramentas de software focados na geração de valor a partir de seus dados. Isto se dá por meio de dashboards, relatórios analíticos (automatizados), modelos preditivos etc., que apoiando decisões de negócio visam (1) aumentar a receita, (2) diminuir os custos, ou (3) gerenciar riscos. 
 
@@ -145,6 +142,7 @@ AzureML
 # Contato
 
 - Email dan@dat-sci.com
+- [LinkedIn](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/)  
 - Whatsapp: (21) 98574-7382
 
 ***
