@@ -27,7 +27,7 @@ O seu fluxo de trabalho (abaixo) consiste em (0) um problema de negócios, (1) a
 knitr::include_graphics("pics/fluxo.png")
 ```
 
-## Foco em R
+## Ecossistema
 
 Somos entusiastas do ecossistema R/Tidyverse/RMarkdown/Shiny, que dispõe de uma coleção estado-da-arte de pacotes p/ implementação elegante e eficaz de todas as demandas em Ciência de Dados:
 
