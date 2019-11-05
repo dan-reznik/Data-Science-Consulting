@@ -24,8 +24,8 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 
 # Serviços
 
-- Planejamento de Projetos de Dados
-- Capacitação de Equipes em Empresas
+- Planejamento e Advisory de Projetos de Dados
+-  [Capacitação de Equipes](cursos.html) em Empresas
 - Execução de Projetos (por equipe própria)
  
 # Verticais e Clientes
@@ -43,7 +43,6 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 - Relatórios Analíticos
 - Dashboards (Shiny e JS)
 - Modelos de Machine Learning (via API)
-- [Capacitação In-Company](cursos.html)
 
 # Contato
 
