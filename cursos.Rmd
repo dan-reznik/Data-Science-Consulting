@@ -58,7 +58,7 @@ Nossa filosofia foca em resultados-first, detalhes-later: produção de relatór
 - PUC-RJ: [Advanced Data-Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
 - PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
 - Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
-- NeoEnergia
+- NeoEnergia: Automação de Produção de Relatórios
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
 
