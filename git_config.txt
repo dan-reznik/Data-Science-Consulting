@@ -1,0 +1,4 @@
+git config --global user.email "dreznik@gmail.com"
+git config --global user.name "Dan Reznik"
+git remote set-url origin git@github.com:dan-reznik/CrimeRadar-Capetown.git
+git remote -v
