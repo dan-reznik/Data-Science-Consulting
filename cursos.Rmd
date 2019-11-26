@@ -1,6 +1,6 @@
 ---
-title: "Capacitação em Ciência de Dados"
-subtitle: "Data Science Consulting"
+title: "Ciência de Dados"
+subtitle: "Capacitação de Equipes"
 output:
   html_document:
     toc: true
@@ -16,9 +16,9 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-A Ciência de Dados é um conjunto de metodologias e ferramentas de software focados na geração de valor a partir de seus dados. Isto se dá por meio de dashboards, relatórios analíticos (automatizados), modelos preditivos etc., que apoiando decisões de negócio visam (1) aumentar a receita, (2) diminuir os custos, ou (3) gerenciar riscos. 
+# Apresentação
 
-O seu fluxo de trabalho (abaixo) consiste em (0) um problema de negócios, (1) acesso ao dados, (2) "wrangling" (preparo), (3) exploração e visualização, opcionalmente (4) modelagem estatística e finalmente (5) comunicação: produção de relatórios, dashboards, ou APIs de modelos.
+A Ciência de Dados é um conjunto de metodologias e ferramentas focadas na geração de valor a partir de conjuntos de dados. Este processo não se inicia com a tecnologia, mas com uma pergunta ou objetivo de negócio, ou seja, na geração de valor. Isto se segue de um plano de análise e de uso de ferramentas para ingestao, exploração, manipulação, visualização e modelagem estatística dos dados. A comunicação dos resultados se dá por meio de relatórios (automatizados ou não), dashboards interativos, APIs, etc.: 
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/fluxo.png")
@@ -26,7 +26,7 @@ knitr::include_graphics("pics/fluxo.png")
 
 ## Ecossistema
 
-Somos entusiastas do ecossistema R/Tidyverse/RMarkdown/Shiny, que dispõe de uma coleção estado-da-arte de pacotes p/ implementação elegante e eficaz de todas as demandas em Ciência de Dados:
+Somos entusiastas do [ecossistema](https://www.tidyverse.org/) R/Tidyverse/RMarkdown/Shiny. Este dispõe de uma coleção estado-da-arte de pacotes p/ implementação elegante e eficaz de todas as demandas em Ciência de Dados:
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/tidyverse.png")
@@ -39,11 +39,11 @@ knitr::include_graphics("pics/tidyverse.png")
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-Sou fundador da [DCS](index.html) e ex-Cientista de Dados da Microsoft.  Desde 2011 já executamos mais de 15 projetos em Analítica Avançada, Dashboards, e Modelagem Preditiva. Há 6 anos leciono cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.). Sou doutor em Ciência da Computação pela UC-Berkeley.
+Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Tem um portfolio de mais de 15 projetos em Analítica Avançada e Ciência de Dados em várias empresas e setores. Há 6 anos leciona cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.). 
 
-Já capacitamos centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
+Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
-Nossa filosofia foca em resultados-first, detalhes-later: produção de relatórios, dashboards, e modelos preditivos expostos como APIs. 
+Nossa filosofia foca em resultados-first, detalhes-later, focados na esfera de aplicaçõe do grupo de alunos: produção de relatórios, dashboards, e modelos preditivos expostos como APIs.
 
 # Cursos Recentes
 
@@ -53,6 +53,8 @@ Nossa filosofia foca em resultados-first, detalhes-later: produção de relatór
 - NeoEnergia: Automação de Produção de Relatórios
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
+
+Oferecemos dois formatos, introdutório (24h) ou avançado (80h), e ambas ementas podem ser adaptadas ao universo de desafios e objetivos de negócio do cliente.
 
 ## Básico: 24h
 
