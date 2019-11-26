@@ -39,7 +39,7 @@ knitr::include_graphics("pics/tidyverse.png")
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Tem um portfolio de mais de 15 projetos em Analítica Avançada e Ciência de Dados em várias empresas e setores. Há 6 anos leciona cursos de pós-graduação em Ciência dos Dados na PUC-RJ, FGV-RJ e Fundação Dom Cabral (MG), além de treinamentos in-company (clientes recentes: NeoEnergia, Ministério Público-RJ, etc.). 
+Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Tem um portfolio de mais de 15 projetos em Analítica Avançada e Ciência de Dados em várias empresas e setores. Há 6 anos leciona cursos de pós-graduação em Ciência dos Dados na PUC-CCE, PUC-Informática, FGV-RJ e Fundação Dom Cabral, além de treinamentos in-company.
 
 Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
@@ -47,10 +47,12 @@ Nossa filosofia foca em resultados-first, detalhes-later, focados na esfera de a
 
 # Cursos Recentes
 
-- PUC-RJ: [Advanced Data-Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
-- PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
-- Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
-- NeoEnergia: Automação de Produção de Relatórios
+- mar-2020 PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
+- dez-2019 Fundação Dom Cabral-MG: [Data Science and Machine Learning](docs/fdc_slides.pdf)
+- mar-2019 Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
+- nov-2018 NeoEnergia: Ciência de Dados com R
+- set-2018 PUC-RJ: [Advanced Data Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
+
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
 
@@ -140,6 +142,13 @@ AzureML
   - Definição do projeto
   - Orientação, Desenvolvimento
   - Documentação (knitr)
+  
+## Customizado
+
+- Seleção de um problema do cliente
+- Esqueleto da solução / plano de análise
+- Data Wrangling, Visualização
+- Publicação de resultados
 
 # Contato
 
