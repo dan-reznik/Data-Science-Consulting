@@ -18,11 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Apresentação
 
-A Ciência de Dados é um conjunto de metodologias e ferramentas focadas na geração de valor a partir de conjuntos de dados. Este processo não se inicia com a tecnologia, mas com uma pergunta ou objetivo de negócio, ou seja, na geração de valor. Isto se segue de um plano de análise e de uso de ferramentas para ingestao, exploração, manipulação, visualização e modelagem estatística dos dados. A comunicação dos resultados se dá por meio de relatórios (automatizados ou não), dashboards interativos, APIs, etc.: 
+A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio. O trabalho do cientista de dados é um fluxo iterativo que inclui aquisição, visualização/análise, manipulação (wrangling), e modelagem estatística (Machine Learning).
+
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/fluxo.png")
 ```
+
+Em particular, este fluxo deve sempre iniciar-se com uma questão clara de negócios e produzir artefatos para consumo de insights: relatórios, dashboards, ou APIs.
 
 ## Ecossistema
 
