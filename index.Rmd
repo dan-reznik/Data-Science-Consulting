@@ -14,7 +14,7 @@ knitr::include_graphics("pics/data_science_consulting_logo.png")
 
 # Apresentação
 
-A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio. Nosso approach é embasado na metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que inicia com a questão de neǵocios, passando por coleta, tratamento e análise, e termina com a comunicação e utilização dos insights:
+A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio. Nosso approach é embasado na metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que inicia com a questão de negócios, passando por coleta, tratamento e análise, e termina com a comunicação e utilização dos insights:
 
 
 ```{r,echo=F,fig.align='center',out.width="80%"}
