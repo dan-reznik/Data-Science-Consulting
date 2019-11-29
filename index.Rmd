@@ -33,7 +33,9 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 
 - Planejamento e Advisory de Projetos de Dados
 -  [Capacitação de Equipes](cursos.html) em Empresas
-- Execução de Projetos (por equipe própria)
+- Execução de Projetos
+    - Com equipe do cliente
+    - Por equipe própria
  
 # Verticais e Clientes
 
