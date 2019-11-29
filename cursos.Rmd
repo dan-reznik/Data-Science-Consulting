@@ -89,15 +89,8 @@ regex
   - Adicionando estilos, camadas, faceteamento
   - Vizualização e Computação com Grafos
   
-- Interop e Operacionalização
-  - Interop: JSON, web scraping, bancos de dados, github/bitbucket
-  - Operacionalização de soluções: Rscript, shiny, REST
-  
 - Projeto I
-  - Investigação de projeto específico ao cliente
-  
-- Projeto II
-  - Investigação de projeto específico ao cliente
+  - Experimentação de caso do cliente
   
 ## Avançado: 80h~120h
 
