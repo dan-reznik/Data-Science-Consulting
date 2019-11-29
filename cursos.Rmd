@@ -87,10 +87,7 @@ regex
   - Introdução à visualização com ggplot2
   - Tipos de gráficos: pontos, dispersão, barras, curvas, boxplots, histogramas
   - Adicionando estilos, camadas, faceteamento
-  - Vizualização e Computação com Grafos
-  
-- Projeto I
-  - Experimentação de caso do cliente
+  - Vizualização de Grafos e Redes
   
 ## Avançado: 80h~120h
 
@@ -113,7 +110,7 @@ regex
   - Introdução à visualização com ggplot2
   - Tipos de graficos: pontos, dispersão, barras, curvas, boxplots, histogramas
   - Gráficos combinados, faceteamento
-  -Melhores práticas em visualização
+  - Melhores práticas em visualização
   - Gráficos animados
   
 - Modelagem de Dados
