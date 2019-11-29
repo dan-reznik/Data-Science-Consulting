@@ -72,7 +72,6 @@ Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa a
   - Dataframes: nrow, ncol, pipe, mutate, rename
   - Criação / leitura de csv, delimitador, locales
   - Manipulacao de datas
-  - Exemplo 1 
 
 - Data Wrangling
   - Tidyverse, cheatsheets, base-r
