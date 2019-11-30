@@ -77,7 +77,7 @@ Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa a
   - Tidyverse, cheatsheets, base-r
   - Leitura arquivos excel, diretamente do site
   - Manipulação de dataframes, verbos básicos, operações retangulares
-  - Iteração em colunas ""lista"" com pacote ""purrr""
+  - Iteração em colunas "lista" com pacote "purrr"
   - Junção de dataframes (joins), fuzzyjoins
   - Sumarização: média, mediana, desvios padrões
 regex
