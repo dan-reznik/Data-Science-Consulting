@@ -18,14 +18,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Apresentação
 
-A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio. O trabalho do cientista de dados é um fluxo iterativo que inclui aquisição, visualização/análise, manipulação (wrangling), e modelagem estatística (Machine Learning).
-
+A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio a partir de múltiplas fontes de dados. O trabalho do cientista de dados é um fluxo iterativo que inclui aquisição, visualização/análise, manipulação (wrangling), e modelagem estatística (Machine Learning).
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/fluxo.png")
 ```
 
-Em particular, este fluxo deve sempre iniciar-se com uma questão clara de negócios e produzir artefatos para consumo de insights: relatórios, dashboards, ou APIs.
+Somos fãs da metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que inicia com a questão de negócios, passando por coleta, tratamento e análise, e termina com a comunicação e utilização dos insights (APIs, dashboards, relatórios):
+
+```{r,echo=F,fig.align='center',out.width="80%"}
+knitr::include_graphics("pics/badir.png")
+```
 
 ## Ecossistema
 
@@ -34,7 +37,6 @@ Somos entusiastas do [ecossistema](https://www.tidyverse.org/) R/Tidyverse/RMark
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/tidyverse.png")
 ```
-
 
 # Instrutor
 
@@ -45,8 +47,6 @@ knitr::include_graphics("pics/dan_mp.jpg")
 Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Tem um portfolio de mais de 15 projetos em Analítica Avançada e Ciência de Dados em várias empresas e setores. Há 6 anos leciona cursos de pós-graduação em Ciência dos Dados na PUC-CCE, PUC-Informática, FGV-RJ e Fundação Dom Cabral, além de treinamentos in-company.
 
 Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
-
-Nossa filosofia foca em resultados-first, detalhes-later, focados na esfera de aplicaçõe do grupo de alunos: produção de relatórios, dashboards, e modelos preditivos expostos como APIs.
 
 # Cursos Recentes
 
