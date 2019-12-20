@@ -29,6 +29,10 @@ Com 8 anos de experiência em 15+ projetos, somos especialistas em Ciência dos 
 
 Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), contamos com uma equipe de jovens cientistas de dados formados pelas melhores Universidades do país.
 
+```{r,echo=F,fig.align='center'}
+knitr::include_graphics("pics/fdc-class.png")
+```
+
 # Serviços
 
 - Planejamento e Advisory de Projetos de Dados
@@ -52,6 +56,10 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 - Relatórios Analíticos
 - Dashboards (Shiny e JS)
 - Modelos de Machine Learning (via API)
+
+```{r,echo=F,fig.align='center'}
+knitr::include_graphics("pics/dashboard-01.png")
+```
 
 # Contato
 
