@@ -3,12 +3,6 @@ title: "Capacitação em Ciência de Dados"
 author: Dan S. Reznik (Data Science Consulting)
 output:
   html_document:
-    toc: true
-    toc_depth: 1
-    number_sections: false
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
     css: styles.css
 --- 
 ***
