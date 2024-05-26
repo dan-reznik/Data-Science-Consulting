@@ -23,7 +23,7 @@ knitr::include_graphics("pics/badir.png")
 
 # Nossa empresa
 
-Com 8 anos de experiência em 15+ projetos, somos especialistas em Ciência dos Dados e Machine Learning. Somo entusiastas do ecossistema R/tidyverse/shiny. Focamos em implantação de projetos de analítica avançada (interna ou externa), validação de oportunidades, confecção ferramentas de apoio à decisão (dashboards, live reports etc.), e modelagem preditiva (machine learning).
+Desde 2012, já atuamos em cerca de 20 projetos em Ciência de Dados no Brasil e exterior, tanto em R como Python. Focamos em identificação e validação de oportunidades e implantação de modelos preditivos e ferramentas de apoio à decisão (dashboards, live reports etc.).
 
 # Equipe
 
@@ -47,7 +47,7 @@ knitr::include_graphics("pics/fdc-class.png")
 - Consumer/Internet: Peixe Urbano, Gazeus Games
 - Marketing Platforms: Bettrads, Fielo Loyalty
 - Oil & Gas: Ouro Negro
-- Healthcare: Amil UHG, Einstein, Fleury
+- Healthcare: Amil UHG, Einstein, Fleury, Conexa Saúde.
 - Governo: SEPLAG-MG, Secretaria de Educação-SP
 - Startups: Instituto Igarapé, Loft, Loggi
   
@@ -55,7 +55,7 @@ knitr::include_graphics("pics/fdc-class.png")
 
 - Relatórios Analíticos
 - Dashboards (Shiny e JS)
-- Modelos de Machine Learning (via API)
+- Modelos preditivos (via API)
 
 ```{r,echo=F,fig.align='center'}
 knitr::include_graphics("pics/dashboard-01.png")
