@@ -12,13 +12,13 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Apresentação
 
-A Ciência de Dados é um conjunto de metodologias e tecnologias focadas na **criação de valor** para um negócio a partir de múltiplas fontes de dados. O trabalho do cientista de dados é um fluxo iterativo que inclui aquisição, visualização/análise, manipulação (wrangling), e modelagem estatística (Machine Learning).
+A [Data Science Consulting](index.html) tem o prazer de oferecer cursos de capacitação em Ciência de Dados, focados na **criação de valor** para um negócio a partir de fontes de dados. O trabalho do cientista de dados é um fluxo iterativo que inclui aquisição, visualização/análise, manipulação (wrangling), e modelagem estatística (Machine Learning).
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/fluxo.png")
 ```
 
-Somos fãs da metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que inicia com a questão de negócios, passando por coleta, tratamento e análise, e termina com a comunicação e utilização dos insights (APIs, dashboards, relatórios):
+Um ponto de partida é a metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que inicia com a questão de negócios, passando por coleta, tratamento e análise, e termina com a comunicação e utilização dos insights (APIs, dashboards, relatórios):
 
 ```{r,echo=F,fig.align='center',out.width="80%"}
 knitr::include_graphics("pics/badir.png")
@@ -30,7 +30,7 @@ knitr::include_graphics("pics/badir.png")
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Dese 2012 já liderou 20 projetos de Ciência de Dados em várias empresas e setores. Há 10 anos leciona cursos de pós-graduação em Ciência dos Dados na Fundação Dom Cabral (FDC) e PUC-RJ e in-company.
+Dan S. Reznik é fundador da [Data Science Consulting](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Dese 2012 já liderou 20 projetos de Ciência de Dados em várias empresas e setores. Há 10 anos leciona cursos de pós-graduação em Ciência dos Dados na Fundação Dom Cabral (FDC) e PUC-RJ.
 
 Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
@@ -48,8 +48,8 @@ Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa a
 ## Básico: 16h~24h
 
 - Introdução
-  - Instalação do R, RStudio, pacotes, tidyverse
-  - O que é data science e R
+  - Instalação do ecossistema (R ou Python)
+  - O que é Ciência de Dados
   - Uso e navegação no Rstudio, uso no console
   - Tipos (numéricos, inteiros, strings, vetores, lógicos)
   - Scripts, funções, notebook
@@ -58,16 +58,15 @@ Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa a
   - Manipulacao de datas
 
 - Data Wrangling
-  - Tidyverse, cheatsheets, base-r
+  - Funções principais de manipulação
   - Leitura arquivos excel, diretamente do site
   - Manipulação de dataframes, verbos básicos, operações retangulares
-  - Iteração em colunas "lista" com pacote "purrr"
+  - Iteração em colunas "lista"
   - Junção de dataframes (joins), fuzzyjoins
   - Sumarização: média, mediana, desvios padrões
 regex
 
 - Visualização de Dados
-  - Introdução à visualização com ggplot2
   - Tipos de gráficos: pontos, dispersão, barras, curvas, boxplots, histogramas
   - Adicionando estilos, camadas, faceteamento
   - Vizualização de Grafos e Redes
@@ -75,22 +74,20 @@ regex
 ## Avançado: 80h~120h
 
 - Introdução
-  - O que é data science e R
-  - Instalação do R, RStudio, pacotes, tidyverse
-  - Uso e navegação no Rstudio, uso no console
-  - Tipos e data structures em R, vetores, listas
+  - O que é ciência de dados
+  - Instalação do ferramental de desenvolvimento
+  - Uso e navegação das ferramentas de desenvolvimento
+  - Tipos e data structures: vetores, listas, dataframes
   - Funções, scripts, notebooks
 
 - Data Wrangling
-  - Introdução ao tidyverse, cheatsheets
+  - Introdução à manipulação de dados
   - Criação de dataframes: manualmente, a partir de arquivos
   - Manipulação de dataframes, operações básicas, retangulares
   - Tipos de colunas: numéricas, strings, categóricas, datas
-  - Iteração em colunas "lista" com pacote "purrr"
   - Junção de dataframes (joins)
   
 - Visualização de Dados
-  - Introdução à visualização com ggplot2
   - Tipos de graficos: pontos, dispersão, barras, curvas, boxplots, histogramas
   - Gráficos combinados, faceteamento
   - Melhores práticas em visualização
@@ -101,23 +98,21 @@ regex
   - Algoritmos de modelagem: supervisionados vs não supervisionados
   - Exemplos de Regressão Linear, Árvores de Decisão, ANN, K-means, etc., com pacote mlr
   - Exemplos de treinamento, teste, cross-validation, ROC curve, precisão, recall, etc.
-  -Manipulando muitos modelos juntos
-AzureML
+  - Manipulando muitos modelos juntos
 
-- R em Produção
-  - Introdução ao Shiny
-  - Uso do R com PowerBI
+- Produção
+  - Introdução a dashboards
+  - Integração com PowerBI
   - Conexão com banco de dados
   - Uso de JSON
-  - Criação e publicação de Dashboard com flexdashboard
+  - Criação e publicação de dashboards
   - Criação e operacionalização de modelos via REST API
-  - Pacotes R
   - Docker
   
 - Capstone Project
   - Definição do projeto
   - Orientação, Desenvolvimento
-  - Documentação (knitr)
+  - Documentação
   
 ## Customizado
 
@@ -128,7 +123,7 @@ AzureML
 
 # Ecossistema
 
-Trabalhamos com R e Python, utilizando pacotes estado-da-arte p/ preparo e modelagem de dados. CUm ponto de partida é o ecosistema *tidyverse* (similar ao *pandas* do Python):
+Trabalhamos com R e Python, utilizando pacotes estado-da-arte p/ preparo e modelagem de dados e os ecosistemas *tidyverse* (abaixo) e *pandas*. 
 
 ```{r,echo=F,fig.align='center',out.width="100%"}
 knitr::include_graphics("pics/tidyverse.png")
@@ -143,4 +138,4 @@ knitr::include_graphics("pics/tidyverse.png")
 
 ***
 
-Voltar à pagina da [DCS](index.html)
+Voltar à pagina da [Data Science Consulting](index.html)
