@@ -46,6 +46,10 @@ Atuamos tanto nas fases de planejamento estratégico quanto na execução, com e
 - Healthcare: Amil UHG, Einstein, Fleury, Conexa Saúde.
 - Governo: SEPLAG-MG, Secretaria de Educação-SP
 - Startups: Instituto Igarapé, Loft, Loggi
+
+```{r,echo=F,fig.align='center',out.width="80%"}
+knitr::include_graphics("pics/projetos.png")
+```
   
 ## Produtos de Entrega
 
