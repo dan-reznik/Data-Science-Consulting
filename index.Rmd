@@ -29,7 +29,7 @@ Desde 2012, já atuamos em cerca de 20 projetos em Ciência de Dados no Brasil e
 
 Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), contamos com uma equipe de jovens cientistas de dados formados pelas melhores Universidades do país.
 
-```{r,echo=F,fig.align='center'}
+```{r,echo=F,fig.align='center',out.width="60%"}
 knitr::include_graphics("pics/fdc-class.png")
 ```
 
@@ -53,7 +53,7 @@ Atuamos tanto nas fases de planejamento estratégico quanto na execução, com e
 - Dashboards (Shiny e JS)
 - Modelos preditivos (via API)
 
-```{r,echo=F,fig.align='center'}
+```{r,echo=F,fig.align='center',out.width="60%"}
 knitr::include_graphics("pics/dashboard-01.png")
 ```
 
