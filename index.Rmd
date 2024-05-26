@@ -23,7 +23,7 @@ knitr::include_graphics("pics/badir.png")
 
 # Nossa empresa
 
-Desde 2012, já atuamos em cerca de 20 projetos em Ciência de Dados no Brasil e exterior, tanto em R como Python. Focamos em identificação e validação de oportunidades e implantação de modelos preditivos e ferramentas de apoio à decisão (dashboards, live reports etc.).
+Desde 2012, já atuamos em cerca de 20 projetos em Ciência de Dados no Brasil e exterior, tanto em R como Python. Focamos em identificação e validação de oportunidades e implantação de modelos preditivos e ferramentas de apoio à decisão (dashboards, live reports etc.). Também oferecemos [cursos de Ciência de Dados](cursos.html) para instituições de ensino e empresas.
 
 # Equipe
 
