@@ -63,10 +63,10 @@ knitr::include_graphics("pics/dashboard-01.png")
 
 # Contato
 
-Email: dan@dat-sci.com  
+Email: dreznik@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/)  
 Whatsapp: (21) 98574-7382
 
 ***
 
-Atualização: Nov 2019.
+Atualização: May 2024.
