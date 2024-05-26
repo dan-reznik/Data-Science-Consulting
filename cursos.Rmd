@@ -30,21 +30,13 @@ Somos fãs da metodologia [BADIR](https://aryng.com/aryng_BADIR_advantage), que 
 knitr::include_graphics("pics/badir.png")
 ```
 
-## Ecossistema
-
-Somos entusiastas do [ecossistema](https://www.tidyverse.org/) R/Tidyverse/RMarkdown/Shiny. Este dispõe de uma coleção estado-da-arte de pacotes p/ implementação elegante e eficaz de todas as demandas em Ciência de Dados:
-
-```{r,echo=F,fig.align='center',out.width="100%"}
-knitr::include_graphics("pics/tidyverse.png")
-```
-
 # Instrutor
 
 ```{r,echo=F,fig.align='center',out.width="50%"}
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Tem um portfolio de mais de 15 projetos em Analítica Avançada e Ciência de Dados em várias empresas e setores. Há 6 anos leciona cursos de pós-graduação em Ciência dos Dados na PUC-CCE, PUC-Informática, FGV-RJ e Fundação Dom Cabral, além de treinamentos in-company.
+Dan S. Reznik é fundador da [DCS](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Dese 2012 já liderou 20 projetos de Ciência de Dados em várias empresas e setores. Há 10 anos leciona cursos de pós-graduação em Ciência dos Dados na Fundação Dom Cabral (FDC) e PUC-RJ e in-company.
 
 Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
@@ -55,9 +47,9 @@ Já capacitou centenas de alunos em várias áreas profissionais e estágios de 
 - Ministério Público-RJ (2019): [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
 - NeoEnergia (2018): Ciência de Dados com R
 
-# Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
+# Ementa {.tabset .tabset-fade .tabset-pills}
 
-Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa adicional pode ser oferecida, customizada à projetos planejados ou em andamento no cliente.
+Oferecemos dois formatos, básico (16h~24h) ou avançado (80~120h). Uma ementa adicional pode ser oferecida, customizada à projetos planejados ou em andamento no cliente. Tanto versões R como Python estão disponíveis.
 
 ## Básico: 16h~24h
 
@@ -139,6 +131,15 @@ AzureML
 - Esqueleto da solução / plano de análise
 - Data Wrangling, Visualização
 - Publicação de resultados
+
+# Ecossistema
+
+Trabalhamos com R e Python, utilizando pacotes estado-da-arte p/ preparo e modelagem de dados. CUm ponto de partida é o ecosistema *tidyverse* (similar ao *pandas* do Python):
+
+```{r,echo=F,fig.align='center',out.width="100%"}
+knitr::include_graphics("pics/tidyverse.png")
+```
+
 
 # Contato
 
