@@ -27,7 +27,7 @@ Desde 2012, já atuamos em cerca de 20 projetos em Ciência de Dados no Brasil e
 
 # Equipe
 
-Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), contamos com uma equipe de jovens cientistas de dados formados pelas melhores Universidades do país.
+Além de diretor [Dan S. Reznik](https://www.linkedin.com/in/dan-s-reznik-bb49133/) (PhD em Ciência da Computação pela UC-Berkeley), contamos com uma equipe de jovens cientistas de dados formados pelas melhores Universidades do país.
 
 ```{r,echo=F,fig.align='center',out.width="60%"}
 knitr::include_graphics("pics/fdc-class.png")
@@ -74,9 +74,9 @@ Oferecemos cursos de capacitação de curta o média duração para empresas e i
 
 # Contato
 
-Email: dreznik@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/)  
-Whatsapp: (21) 98574-7382
+- Email: dreznik@gmail.com  
+- Linkedin: [dan-s-reznik-bb49133](https://www.linkedin.com/in/dan-s-reznik-bb49133/)  
+- Whatsapp: (21) 98574-7382
 
 ***
 

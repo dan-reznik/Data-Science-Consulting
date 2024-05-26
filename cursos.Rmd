@@ -30,7 +30,7 @@ knitr::include_graphics("pics/badir.png")
 knitr::include_graphics("pics/dan_mp.jpg")
 ```
 
-Dan S. Reznik é fundador da [Data Science Consulting](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Dese 2012 já liderou 20 projetos de Ciência de Dados em várias empresas e setores. Há 10 anos leciona cursos de pós-graduação em Ciência dos Dados na Fundação Dom Cabral (FDC) e PUC-RJ.
+[Dan S. Reznik](https://www.linkedin.com/in/dan-s-reznik-bb49133/) é fundador da [Data Science Consulting](index.html), ex-Cientista de Dados da Microsoft e Doutor em Ciência da Computação pela UC-Berkeley. Dese 2012 já liderou 20 projetos de Ciência de Dados em várias empresas e setores. Há 10 anos leciona cursos de pós-graduação em Ciência dos Dados na Fundação Dom Cabral (FDC) e PUC-RJ.
 
 Já capacitou centenas de alunos em várias áreas profissionais e estágios de carreira: TI, engenharia, negócios, jornalismo, advocacia, finanças etc.
 
@@ -133,7 +133,7 @@ knitr::include_graphics("pics/tidyverse.png")
 # Contato
 
 - Email: dreznik@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/dan-s-reznik-phd-bb49133/)  
+- Linkedin: [dan-s-reznik-bb49133](https://www.linkedin.com/in/dan-s-reznik-bb49133/) 
 - Whatsapp: (21) 98574-7382
 
 ***
