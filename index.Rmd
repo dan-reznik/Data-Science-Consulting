@@ -33,15 +33,11 @@ Além de diretor Dan Reznik (PhD em Ciência da Computação pela UC-Berkeley), 
 knitr::include_graphics("pics/fdc-class.png")
 ```
 
-# Serviços
+# Projetos
 
-- Planejamento e Advisory de Projetos de Dados
--  [Capacitação de Equipes](cursos.html) em Empresas
-- Execução de Projetos
-    - Com equipe do cliente
-    - Por equipe própria
- 
-# Verticais e Clientes
+Atuamos tanto nas fases de planejamento estratégico quanto na execução, com equipe própria e/ou do cliente.
+
+## Verticais e Clientes
 
 - Setor Financeiro: Bradesco
 - Consumer/Internet: Peixe Urbano, Gazeus Games
@@ -51,7 +47,7 @@ knitr::include_graphics("pics/fdc-class.png")
 - Governo: SEPLAG-MG, Secretaria de Educação-SP
 - Startups: Instituto Igarapé, Loft, Loggi
   
-# Produtos de Entrega
+## Produtos de Entrega
 
 - Relatórios Analíticos
 - Dashboards (Shiny e JS)
@@ -60,6 +56,11 @@ knitr::include_graphics("pics/fdc-class.png")
 ```{r,echo=F,fig.align='center'}
 knitr::include_graphics("pics/dashboard-01.png")
 ```
+
+# Cursos de capacitação
+
+Oferecemos cursos de capacitação de curta o média duração para empresas e instituições. Para mais informações, consultar [cursos de Ciência de Dados](cursos.html).
+
 
 # Contato
 

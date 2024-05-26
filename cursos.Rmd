@@ -50,12 +50,10 @@ Já capacitou centenas de alunos em várias áreas profissionais e estágios de 
 
 # Cursos Recentes
 
-- 2019-presente: Fundação Dom Cabral-MG: [Data Science and Machine Learning](docs/fdc_slides.pdf)
-- mar-2020 PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/)
-- mar-2019 Ministério Público-RJ: [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
-- nov-2018 NeoEnergia: Ciência de Dados com R
-- set-2018 PUC-RJ: [Advanced Data Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
-
+- 2019-presente, Fundação Dom Cabral-MG: [Data Science and Machine Learning](docs/fdc_slides.pdf)
+- 2018-presente, PUC-RJ: [Digital Transformation](http://ecoa.usuarios.rdc.puc-rio.br/mdt/), [Advanced Data Analytics](http://www.cce.puc-rio.br/sitecce/website/website.dll/folder?nCurso=data-analytics:-mining,-predictive,-text-(e)-big-data-analytics)
+- Ministério Público-RJ (2019): [Data Science with R](https://dan-reznik.github.io/MPRJ-Main/)
+- NeoEnergia (2018): Ciência de Dados com R
 
 # Ementa dos Cursos {.tabset .tabset-fade .tabset-pills}
 
@@ -141,10 +139,6 @@ AzureML
 - Esqueleto da solução / plano de análise
 - Data Wrangling, Visualização
 - Publicação de resultados
-
-# Valores
-
-A combinar e em função do número de alunos, local, horas de curso, e número de aulas.
 
 # Contato
 
